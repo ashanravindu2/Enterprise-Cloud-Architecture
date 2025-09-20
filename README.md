@@ -5,6 +5,11 @@ A microservices-based enterprise application for educational institutions built 
 ## 📽️ Demo Video
 [**Watch Project **](https://drive.google.com/file/d/17xdZx_RDFtBrGXIIbMAMHNCXwJNOdLLY/view?usp=sharing)
 
+## About me
+Name : Ashan Ravindu Lakshitha
+Student Reg No : 2301682004
+Email : ravindulakshithaashan@gmail.com
+
 ## About the Project
 
 This is a **microservices architecture** project consisting of:
